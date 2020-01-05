@@ -1,5 +1,8 @@
 _repo: Mensch-und-Erde-Skizzen-von-den-Wechselbeziehungen-zwischen-beiden_61101
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61101-h/images/cover.jpg
 creator:
   author:
     agent_name: Kirchhoff, Alfred
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51255
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Kirchhoff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61101#Mensch-und-Erde-Skizzen-von-den-Wechselbeziehungen-zwischen-beiden
 gutenberg_issued: '2020-01-04'
 gutenberg_type: Text
 identifiers:
